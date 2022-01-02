@@ -1,5 +1,5 @@
 # SupportCLI Documentation
-The SupportCLI console application has been designed inline with SOA and Domain Driven Design(DDD) to provide end user a console to invoke various commands for creating and managing tickets.
+The SupportCLI console application has been designed inline with SOA and Domain Driven Design(DDD - https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) to provide end user a console to invoke various commands for creating and managing tickets. 
 
 ## Solution Architecture
 
