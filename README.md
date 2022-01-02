@@ -11,7 +11,18 @@ DDD approch has been used for designing the architecture of the solution by clea
  - **.NET 6** has been used for creating the solution.
  
  ![alt text](https://github.com/bishwaranjans/SupportCli/blob/master/Documentation/ArchitectureDiagram.PNG)
- 
+## Console Application Commands
+
+**Available commands:(Only the Commands are case insensitive, but values passed are case sensitive)**
+
+- **create %title%** - Create a new ticket
+- **show %ticket id%** - Show the ticket
+- **comment %ticket id% %comment%** - Add a comment to the ticket
+- **assign %ticket id% %user name%** - Assign the ticket
+- **close %ticket id%** - Close the ticket
+- **list** - Show all tickets
+- **q** - Exit application
+
 ## SOLID
 SOLID principle has been used across all level of codes wherever possible.
 
